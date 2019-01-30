@@ -1,0 +1,6 @@
+Bootstrap:docker  
+From:zaniar87/pydicom-tensorflow
+
+%post
+mkdir -p /extra/zaniarardalan
+mkdir -p /home/u6/zaniarardalan
